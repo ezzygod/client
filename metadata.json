@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Tesla Vehicle Manager",
+  "description": "A vehicle fleet management app using React and Tailwind CSS.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
